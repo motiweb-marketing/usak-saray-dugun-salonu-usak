@@ -72,7 +72,7 @@ export const siteConfig = {
   hero: {
     badge: "Şehrin En Şık Düğün & Etkinlik Mekanı",
     titlePrefix: "Uşak'ta",
-    titleHighlight: "Uşak Saray Düğün Salonu",
+    titleHighlight: "Saray Düğün Salonu",
     titleSuffix: "ile hayalinizdeki düğünü gerçeğe dönüştürün",
     subtitle:
       "Modüler salon yerleşimi, esnek kapasite, profesyonel ışıklandırma ve deneyimli organizasyon ekibimizle özel gününüzü kusursuz kılıyoruz.",
